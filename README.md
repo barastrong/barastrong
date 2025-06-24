@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Bara 👋
 
-<!--
-**barastrong/barastrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+</p>
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about software development, learning new technologies, and building cool projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on: **Full-stack web development**  
+- 🌱 I’m currently learning: **Laravel, React, and DevOps**  
+- 👯 I’m looking to collaborate on: **Open-source projects**  
+- 🤔 I’m looking for help with: **Best practices in clean code**  
+- 💬 Ask me about: **Laravel, JavaScript, Firebase**  
+- 📫 How to reach me: `barastrong@email.com`  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love to code while listening to lofi music 🎧
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+💻 Languages:        PHP | JavaScript | Python | HTML & CSS
+⚙️ Frameworks:       Laravel | React | Node.js
+🛢️ Databases:        MySQL | Firebase | MongoDB
+🔧 Tools:            VS Code | Git | Figma | Postman
+🌐 Currently using:  Ubuntu | Windows
