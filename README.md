@@ -1,11 +1,5 @@
 # Hi there, I'm Bara! 👋
 <div align="center">
-  <a href="https://github.com/barastrong">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF2D20¢er=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Bara!+%F0%9F%91%8B;A+Full-Stack+Developer+%F0%9F%9A%80;A+Tech+Enthusiast+%F0%9F%92%A1;Let's+build+something+awesome!+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
