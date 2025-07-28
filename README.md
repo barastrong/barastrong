@@ -77,14 +77,14 @@ Location: 🌍 Ready to collaborate globally
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barastrong&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=barastrong&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ---
