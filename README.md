@@ -111,7 +111,7 @@ Location: 🌍 Ready to collaborate globally
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bintangbaraadyasta@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://myportofolio-bara.netlify.app)
 
 </div>
 
@@ -125,12 +125,12 @@ Location: 🌍 Ready to collaborate globally
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=barastrong&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
   
-**⭐ From [Bara](https://github.com/YourGitHubUsername) with ❤️**
+**⭐ From [Bara](https://github.com/barastrong) with ❤️**
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
