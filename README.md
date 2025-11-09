@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/barastrong">
-    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF¢er=true&vCenter=true&width=550&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Bintang+Bara+Adyasta;A+Passionate+Full-Stack+Developer+%F0%9F%9A%80;Powered+by+Lofi+%26+Coffee+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF¢er=true&vCenter=true&width=550&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Bintang+Bara+Adyasta;A+Passionate+Backend+Developer+%F0%9F%9A%80;Powered+by+Lofi+%26+Coffee+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
