@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Full-Stack Developer | 💡 Tech Enthusiast | 🎵 Lofi Code Sessions</h3>
+  <h3>💻 Backend Developer | 💡 Tech Enthusiast | 🎵 Lofi Code Sessions</h3>
   <p><em>Crafting digital experiences one line of code at a time</em></p>
 </div>
 
@@ -30,8 +30,8 @@ Music: 🎧 Lofi Hip Hop beats
 Location: 🌍 Ready to collaborate globally
 ```
 
-- 🔭 **Currently working on:** Full-stack web applications with modern tech
-- 🌱 **Learning journey:** Laravel, React, DevOps & Cloud Technologies  
+- 🔭 **Currently working on:** Backend web applications
+- 🌱 **Learning journey:** Laravel, MySQL, NodeJS
 - 👥 **Open to collaborate:** Exciting open-source projects & innovative ideas
 - 🎯 **Seeking guidance:** Clean code practices & software architecture
 - 💬 **Let's talk about:** Laravel magic, JavaScript wizardry, Firebase integration
