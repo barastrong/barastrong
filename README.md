@@ -35,7 +35,7 @@ Location: 🌍 Ready to collaborate globally
 - 👥 **Open to collaborate:** Exciting open-source projects & innovative ideas
 - 🎯 **Seeking guidance:** Clean code practices & software architecture
 - 💬 **Let's talk about:** Laravel magic, JavaScript wizardry, Firebase integration
-- 📧 **Reach me:** `bintangbaraadyasta@email.com`
+- 📧 **Reach me:** `gamemasaw@email.com`
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** My best code happens with lofi beats playing! 🎧✨
 
