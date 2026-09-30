@@ -66,14 +66,19 @@ Hi, I'm **Bara**, a backend developer who enjoys building clean, reliable web ap
 
 ## 📌 Featured Projects
 
-<!-- Ganti dengan repo pilihanmu, atau pakai kartu pin otomatis di bawah -->
-
 <div align="center">
-  <a href="https://github.com/barastrong/REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barastrong&repo=REPO-1&theme=tokyonight" alt="Project 1" />
+  <a href="https://github.com/barastrong/Portofolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barastrong&repo=Portofolio&theme=tokyonight" alt="Portofolio" />
   </a>
-  <a href="https://github.com/barastrong/REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barastrong&repo=REPO-2&theme=tokyonight" alt="Project 2" />
+  <a href="https://github.com/barastrong/VintageWebsite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barastrong&repo=VintageWebsite&theme=tokyonight" alt="VintageWebsite" />
+  </a>
+  <br />
+  <a href="https://github.com/barastrong/BintangArga">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barastrong&repo=BintangArga&theme=tokyonight" alt="BintangArga" />
+  </a>
+  <a href="https://github.com/barastrong/nusaquest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=barastrong&repo=nusaquest&theme=tokyonight" alt="nusaquest" />
   </a>
 </div>
 
