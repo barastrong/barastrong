@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="Bintang Bara Adyasta, backend developer. A drawing of a client, an API and a MySQL database exchanging a request and a 200 OK response." width="100%">
+<img src="header.svg" alt="Bintang Bara Adyasta, backend developer. A drawing of a client, an API and a MySQL database exchanging a request and a 200 OK response." width="100%">
 
 ## About
 
@@ -10,13 +10,13 @@ I'm Bara, a backend developer. I build web applications with Laravel and Node.js
 - **Open to:** open-source collaboration and new ideas
 - **Ask me about:** Laravel, JavaScript, Firebase integration
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## Stack
 
-<img src="assets/stack.svg" alt="Languages: PHP, JavaScript, Python, HTML, CSS. Frameworks: Laravel, Node.js, React. Databases: MySQL, MongoDB, Firebase. Tools: VS Code, Git, Postman, Figma, Windows." width="100%">
+<img src="stack.svg" alt="Languages: PHP, JavaScript, Python, HTML, CSS. Frameworks: Laravel, Node.js, React. Databases: MySQL, MongoDB, Firebase. Tools: VS Code, Git, Postman, Figma, Windows." width="100%">
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## Projects
 
@@ -25,7 +25,7 @@ I'm Bara, a backend developer. I build web applications with Laravel and Node.js
 <a href="https://github.com/barastrong/BintangArga"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=barastrong&repo=BintangArga&bg_color=17358F&title_color=FFFFFF&text_color=DCE8FF&icon_color=FFD23F&border_color=9CC7FF&border_radius=4" alt="BintangArga"></a>
 <a href="https://github.com/barastrong/nusaquest"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=barastrong&repo=nusaquest&bg_color=17358F&title_color=FFFFFF&text_color=DCE8FF&icon_color=FFD23F&border_color=9CC7FF&border_radius=4" alt="nusaquest"></a>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## Activity
 
@@ -34,7 +34,7 @@ I'm Bara, a backend developer. I build web applications with Laravel and Node.js
 
 <img src="https://streak-stats.demolab.com/?user=barastrong&background=17358F&border=9CC7FF&ring=FFD23F&fire=FFD23F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=DCE8FF&dates=9CC7FF&border_radius=4" alt="GitHub contribution streak">
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## Contact
 
